@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/graphql": "14.5.0",
-    "@types/jest": "26.0.22",
+    "@types/jest": "26.0.23",
     "@types/mustache": "4.1.1",
     "@types/node": "13.13.50",
     "codecov": "3.8.1",
